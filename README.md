@@ -16,7 +16,7 @@
 
 I am a current student of the Ignite program presented by **[Rocketseat](https://www.rocketseat.com.br/)**.
 
-Within every module, the course offers main challenges and extra assignments you can complete to enchance your skills and have fun.
+Within every module, the course offers main challenges and extra assignments you can complete to enhance your skills and have fun.
 
 This code correction task is one of the extra assignments offered to us. I had a lot of fun completing this challenge as it made my practice my code reviewing skills.
 
